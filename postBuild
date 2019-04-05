@@ -1,0 +1,11 @@
+git submodule update --init --recursive
+
+# starts project environment
+spro enter  
+
+# installs project dependencies
+spro install  
+
+# downloads project data too large to store on Github
+# spro download  
+
