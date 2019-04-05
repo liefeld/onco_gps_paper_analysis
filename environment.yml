@@ -1,4 +1,4 @@
-name: null
+name: OncoGPS
 channels:
 - bioconda
 - conda-forge
